@@ -1,0 +1,30 @@
+{
+  "name": "polygon-overlap",
+  "description": "Check if two polygons overlap",
+  "main": "index.js",
+  "authors": [
+    "Erlend Fagerheim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "poly",
+    "polygon",
+    "overlap",
+    "intersect",
+    "intersection",
+    "geometry",
+    "geo"
+  ],
+  "homepage": "https://github.com/erf/polygon-overlap",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

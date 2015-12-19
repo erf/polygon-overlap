@@ -1,0 +1,29 @@
+{
+  "name": "polygon-overlap",
+  "version": "1.0.7",
+  "description": "Check if two polygons overlap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erf/polygon-overlap.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "poly",
+    "polygon",
+    "overlap",
+    "intersect",
+    "intersection",
+    "geometry",
+    "geo"
+  ],
+  "author": "Erlend Fagerheim",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.3.4",
+    "lines-intersect": "1.0.0",
+    "point-inside-polygon": "1.0.1"
+  }
+}
