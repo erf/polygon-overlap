@@ -2,6 +2,13 @@
   "name": "polygon-overlap",
   "description": "Check if two polygons overlap",
   "main": "index.js",
+  "devDependencies": {
+    "mocha": "2.3.4"
+  },
+  "dependencies": {
+    "lines-intersect": "1.0.0",
+    "point-inside-polygon": "1.0.1"
+  },
   "authors": [
     "Erlend Fagerheim"
   ],

@@ -7,6 +7,13 @@
     "url": "https://github.com/erf/polygon-overlap.git"
   },
   "main": "index.js",
+  "devDependencies": {
+    "mocha": "2.3.4"
+  },
+  "dependencies": {
+    "lines-intersect": "1.0.0",
+    "point-inside-polygon": "1.0.1"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -20,12 +27,5 @@
     "geo"
   ],
   "author": "Erlend Fagerheim",
-  "license": "ISC",
-  "devDependencies": {
-    "mocha": "2.3.4"
-  },
-  "dependencies": {
-    "lines-intersect": "1.0.0",
-    "point-inside-polygon": "1.0.1"
-  }
+  "license": "ISC"
 }
