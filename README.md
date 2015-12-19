@@ -3,7 +3,8 @@
 Check if two polygons overlap
 
 # Install
-`npm install polygon-overlap`
+* [npm](http://npmjs.com/): `npm install polygon-overlap`
+* [Bower](http://bower.io/): `bower install polygon-overlap`
 
 # Usage
 ```
