@@ -1,6 +1,6 @@
 {
   "name": "polygon-overlap",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if two polygons overlap",
   "repository": {
     "type": "git",
