@@ -9,7 +9,7 @@ Check if two polygons overlap
 ```
 const p0 = [[0,0], [1,0], [1,1]];
 const p1 = [[0.5,0.5], [1.5,0.5], [1.5,1.5]];
-assert(pu.overlap(p0, p1)===true);
+assert(overlap(p0, p1)===true);
 ```
 
 # Tests
